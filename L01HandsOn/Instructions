@@ -1,0 +1,60 @@
+Start off by downloading the starter project and unzipping it.
+
+Next, move this project to the React-Course folder and rename this project to be react-handson-one.
+
+Open up your terminal/command prompt.
+
+Run:
+
+cd desktop
+Run:
+
+cd React-Course
+Run :
+
+cd react-handson-one
+Now you are in the react-handson-one directory, run the following:
+
+$ npm install
+Once npm has finished installing, you can test that the server is working with the following command:
+
+$ npm start
+You should now see your browser open up a blank page with an alert box saying "It's alive!".
+
+You can stop this process by pressing Control + C in the terminal, but for now, keep the server running.
+Add the necessary import statements at the top of the src/index.js file and remove the alert that currently lives in that file:
+
+import React from 'react';
+import ReactDOM from 'react-dom';
+Add your code for this project within the src/index.js file.
+
+Caution!
+Be sure to submit your entire directory when finished!
+
+Requirements
+Write the React code needed to render the equivalent to the below HTML favorite things list. Make sure to fulfill the below requirements:
+
+You must keep the sections the same (i.e. Favorite Colors, Favorite Websites etc), but feel free to fill it in your personal favorite things.
+The list of your Favorite Websites should navigate the user to those specific websites, as you can below.
+You should have three different websites listed under "Favorite Websites".
+Add a class name to each of the sub topics (i.e. Favorite Colors, Favorite Websites etc). The class names should relate to their respective favorite thing topic.
+For example, the Favorite Colors section should have a class name of something similar to "favoriteColors".
+Use Variables in some way
+When you are done, it should look similar, but not exactly the same to the below. Notice the use of unordered and ordered lists:
+My Favorite Things
+Favorite Colors
+Green
+Blue
+Red
+Favorite Music
+Regina Spektor
+Antonín Dvořák
+Radiohead
+Favorite Food
+Pizza
+Ceasar Salad
+Gnocchi
+Favorite Websites
+www.google.com
+www.facebook.com
+www.instagram.com
