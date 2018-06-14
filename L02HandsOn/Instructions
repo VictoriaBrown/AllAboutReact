@@ -1,0 +1,11 @@
+Requirements
+Given the below table, write it in JSX. Meet the below requirements:
+
+You must use a function
+The function must have the same amount of parameters as the table has headers
+Use curly braces
+State	Population	Capital
+Idaho	1.683 million	Boise
+Tennessee	6.651 million	Nashville
+Maine	1.331 million	Agusta
+Wisconsin	5.779 million	Madison
