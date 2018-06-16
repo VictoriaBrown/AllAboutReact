@@ -1,0 +1,10 @@
+Requirements
+Meet the following requirements for this hands on:
+
+Create an App component which returns any other component created
+Render the App component
+Create a component named NumberOfStudents
+Add two fields to the state: enrolledStudents and waitlistedStudents
+Create two buttons that, when clicked, will increase the number of enrolled students or waitlisted students by one.
+Create two input fields that each have a button: one for the enrolled students and one for waitlisted students. When a number is entered, the number of the enrolled or waitlisted students should increase by that specified amount.
+Your page should look similar to the below:
